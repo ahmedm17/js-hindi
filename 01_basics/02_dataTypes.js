@@ -19,7 +19,7 @@ let state;
 // string => ""
 // boolean => true/false
 // null => standalone value  // it is an object (output is object)
-// undefined =>  // it is undefined 
+// undefined =>  // it is undefined (output is Undefined)
 // symbol => unique
 
 
