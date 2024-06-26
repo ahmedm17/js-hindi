@@ -1,2 +1,2 @@
 # js-hindi
-I am a learner learning Javascrip 
+I am a learner learning Javascript
